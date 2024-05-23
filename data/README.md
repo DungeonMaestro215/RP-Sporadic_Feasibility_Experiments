@@ -27,4 +27,4 @@ Each file contains the following four columns, in order:
 
 The first column gives the utilizations of generated task sets. The last three are the results for the Unrelated, Uniform, and Identical system models, respectively.
 
-Some data points are recorded as `nan`. This indicates that not enough of the generated task sets with the corresponding specifications could be made feasible.
+Some data points are recorded as `nan`. This indicates that not enough of the generated task sets with the corresponding specifications could be made feasible to get statistically significant results.
